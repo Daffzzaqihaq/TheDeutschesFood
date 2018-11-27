@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">The Deutsches Food</string>
+
+    <string-array name="namefood">
+        <item>Bratwurst</item>
+        <item>Falscher Hase</item>
+        <item>Gulaschsuppe</item>
+        <item>Apfelstrudel</item>
+        <item>Bretzel</item>
+        <item>Bienenstich</item>
+        <item>Leubkuchen</item>
+        <item>Schwarzwalder Kirschtorte</item>
+        <item>Sauerkraut</item>
+        <item>Kartoffelsalat</item>
+    </string-array>
+
+    <string-array name="detailfood">
+        <item>Nah siapa sih yang gak tau makanan satu ini. Bratwurst yaitu sosis khas Jerman yang diolah dengan cara dipanggang. Setelah dipanggang, ia dihidangkan bersama dengan salad yang disebut Kartoffelsalat. Namun kini semakin banyak versi penyajian Bratwurst. /n /n Ada pula Bratwurst yang disajikan dengan taburan keju atau bawang. Bratwurst pun memiliki beragam varian. Ada yang terbuat dari daging sapi, babi, ayam, ataupun kalkun. Bahkan jika dikumpulkan, terdapat 1.500 jenis sosis yang ada di Jerman.</item>
+        <item>Kalau yang ini bentuknya mirip dengan steak ketika disajikan. Namun sebenarnya cara mengolahnya berbeda. Flascher Hase adalah makanan khas Jerman yang berbahan dasar daging cincang, telur, tepung dan bawang. /n /n Semua bahan tersebut kemudian dicampurkan lalu dipanggang. Ketika sudah matang, kemudian diiris tipis-tipis lalu disajikan bersama kentang tumbuk ataupun kentang goreng. Tak lupa siraman saus diatasnya. Ada yang menarik dibalik nama Falscher Hase.</item>
+        <item>Lagi – lagi makanan satu ini menggunakan bahan dasar daging. Namun Gulachuppe bukanlah steak atau sosis melainkan sup. Sup ini memiliki kuah yang kental dan berwarna merah. Bahan dasar dari sup ini yaitu, daging sapi, kentang, tomat dan rempah-rempah khas Jerman.</item>
+        <item>Orang Indonesia pasti tidak asing dengan makanan satu ini. Makanan ini sebenarnya mirip dengan Apel Strudel yang ada di kota Malang. Pasti pada tau kan Apel Strudel yang menjadi oleh-oleh khas Malang? Nah versi aslinya adalah Apfelstrudel ini. /n /n Makanan satu ini memang berasal dari Jerman, namun karena cita rasanya yang enak banget maka orang Indonesia mencoba untuk mengembangkannya sendiri. Umumnya kue ini berbentuk bulat dan teksturnya lembut. Apfelstrudel cocok banget dinikmati sebagai sajian penutup ketika makan direstoran atau dirumah.</item>
+        <item>Kue yang satu ini juga sudah sering kita jumpai di Jakarta. Namun tentu berbeda dengan yang asli dari Jerman. Bentuk kue ini seperti pita berwarna coklat. Diatasnya ditaburi garam kasar, biji wijen, atau biji bunga matahari.</item>
+        <item>Makanan khas Jerman ini juga dapat menjadi pilihan untuk makanan penutup. Bienenstich merupakan kue manis yang adonannya terbuat dari krim vanilla, kacang almond dan madu sebagai pelapis diatasnya.</item>
+        <item>Makanan ini merupakan cemilan khas Jerman. Sebutan lain dari kue ini yaitu ginger bread atau roti jahe. Bahan – bahan yang digunakan untuk membuat kue ini sangat beragam. Antara lain yaitu tepung, madu, telur, kacang walnut, kacang hazelnut, kacang badam, manisan jeruk, potongan buah lemon, marzipan dan rempah-rempah seperti jahe, adas manis, ketumbar, pimento dan kapulaga.</item>
+        <item>Wah namanya rumit sekali ya! Walaupun namanya rumit namun kue ini sangat lezat. Makanan khas Jerman ini berupa kue coklat yang dilapisi oleh krim vanilla segar dan parutan coklat. Tak lupa dihias dengan buah ceri diatasnya.</item>
+        <item>Kalau ini merupakan makanan khas Jerman yang biasanya dijadikan pendamping makanan utama. Sauerkraut dibuat dari kol putih yang diris tipis kemudian difermentasikan. Makanan ini rasanya asam namun dapat menyegarkan.</item>
+        <item>Makanan khas Jerman satu ini juga merupakan makanan pendamping. Terbuat dari potongan kentang rebus yang dikombinasikan dengan bawang Bombay segar, mayones, cuka, tomat, telur, daging sapi dan saus yang terbuat dari susu.</item>
+    </string-array>
+</resources>
